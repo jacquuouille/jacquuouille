@@ -15,13 +15,11 @@
 
 ### Hi there  👋
  
- My name is Jacques and I am a Data Analyst 👨‍💻
- <br />
- Very data driven, with a strong interest and love for coding! 📈
- <br />
- Learning Darts with Flutter to create mobile applications from scratch 🎨
- 
- 
+ - 👨‍💻 My name's Jacques and I'm a Data Analyst 
+ - 📈 Very data driven, with a strong interest and love for coding! 
+ - 💬 Learning Darts with Flutter to create mobile applications from scratch 
+ - ⛰️ Passion for nature and hiking
+
 #### 🛠️ Languages and Tools:
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Java" width="30" height="30"/>&nbsp;
