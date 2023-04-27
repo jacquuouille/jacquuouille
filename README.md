@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <ing src=![109119-coding-slide](https://user-images.githubusercontent.com/62380585/234785690-6a03e043-1506-4646-936e-daddac003687.gif)
+</div>
+
 ### Hi there 👋
 
 <!--
