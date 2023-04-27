@@ -17,7 +17,7 @@
  
  - 👨‍💻 My name's Jacques and I'm a Data Analyst 
  - 📈 Very data driven with a strong interest for coding! 
- - 💬 Learning Darts with Flutter to create mobile applications from scratch 
+ - 💬 Learning Darts with Flutter to create mobile applications from scratch!
  - ⛰️ Passion for nature and hiking
 
 #### 🛠️ Languages and Tools:
