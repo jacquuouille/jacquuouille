@@ -34,22 +34,12 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/DataGrip.svg/1024px-DataGrip.svg.png" title="DataGrip" alt="Java" width="30" height="30"/>&nbsp;
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/google_bigquery_logo_icon_168150.png" title="BigQuery" alt="Java" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="Java" width="30" height="30"/>&nbsp;
+    <img src="https://comunidadbioinfo.github.io/cdsb2021_workflows/img/shiny_1.png" title="RShiny" alt="Java" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="RStudio" alt="Java" width="30" height="30"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Java" width="30" height="30"/>&nbsp;
   
-
+#### 🚀 My Stats:
   
-<!--
-**jacquuouille/jacquuouille** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jacquuouille&theme=blueberry-duo)](https://git.io/streak-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacquuouille&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
